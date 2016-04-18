@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">USC AR Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_user">Create User</string>
+    <string name="title_activity_login">Login</string>
+
+    <string-array name="securityQs">
+        <item>"Security Question</item>
+        <item>What is your childhood nickname?</item>
+        <item>City of birth?</item>
+        <item>Name of your first pet?</item>
+        <item>Name of favorite celebrity?</item>
+        <item>Name of your favorite artist?</item>
+        <item>Name of your favorite sport?</item>
+        <item>Make of your first car?</item>
+    </string-array>
+    <string name="title_database_list">Databases</string>
+    <string name="title_database_detail">Database Detail</string>
+</resources>

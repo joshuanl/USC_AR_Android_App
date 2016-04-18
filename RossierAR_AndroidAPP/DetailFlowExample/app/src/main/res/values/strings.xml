@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetailFlowExample</string>
+    <string name="title_database_detail">Database Detail</string>
+</resources>
